@@ -1,8 +1,10 @@
 {
   "name": "Defund Wikipedia",
-  "version": "2.0",
+  "version": "1.1",
   "description": "Deletes donation notices of Wikipedia; which is clearly a biased platform",
   "permissions": ["activeTab", "https://*.wikipedia.org/*"],
+  "icons": { "48": "icon48.png",
+          "128": "icon128.png" },
   "content_scripts": [
     {
         "matches": ["https://*.wikipedia.org/*"],
