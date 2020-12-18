@@ -1,5 +1,5 @@
 # defund-wikipedia
-Chrome Extension to delete notices on Wikipedia for donations for their biasedness and lack of desire to make amends.
+Chrome Extension to delete notices on Wikipedia for donations for their [ideological bias](https://en.wikipedia.org/w/index.php?title=Ideological_bias_on_Wikipedia&oldid=994655949#Wikipedia_co-founder_Larry_Sanger) and lack of desire to make amends.
 
 ## Process to install : 
 ### 1. Download source code from Github. Extract zip and save it at a location you can remember. 
