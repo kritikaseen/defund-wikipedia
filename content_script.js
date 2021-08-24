@@ -3,8 +3,12 @@ if(element !== null && element !== '') {
    element.parentElement.removeChild(element);
 }
 
-
 element = document.querySelector('div#frb-inline');
+if(element !== null && element !== '') {
+   element.parentElement.removeChild(element);
+}
+
+element = document.querySelector('div#frb-nag');
 if(element !== null && element !== '') {
    element.parentElement.removeChild(element);
 }
